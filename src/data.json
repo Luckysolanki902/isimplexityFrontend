@@ -1,0 +1,22 @@
+[
+  { "id": 1, "region": "United States", "coordinates": [37.0902, -95.7129], "data": 290 },
+  { "id": 2, "region": "United States", "coordinates": [40.7128, -74.0060], "data": 490 },
+  { "id": 3, "region": "Austria", "coordinates": [48.2082, 16.3738], "data": 790 },
+  { "id": 4, "region": "Sweden", "coordinates": [59.3293, 18.0686], "data": 590 },
+  { "id": 5, "region": "Austria", "coordinates": [47.8095, 13.0550], "data": 290 },
+  { "id": 6, "region": "Sweden", "coordinates": [55.604981, 13.003822], "data": 390 },
+  { "id": 7, "region": "Canada", "coordinates": [56.1304, -106.3468], "data": 1500 },
+  { "id": 8, "region": "Brazil", "coordinates": [-14.2350, -51.9253], "data": 700 },
+  { "id": 9, "region": "France", "coordinates": [46.6034, 1.8883], "data": 3500 },
+  { "id": 10, "region": "Russia", "coordinates": [61.5240, 105.3188], "data": 1500 },
+  { "id": 11, "region": "China", "coordinates": [35.8617, 104.1954], "data": 4000 },
+  { "id": 12, "region": "Australia", "coordinates": [-25.2744, 133.7751], "data": 800 },
+  { "id": 13, "region": "India", "coordinates": [20.5937, 78.9629], "data": 1200 },
+  { "id": 14, "region": "Japan", "coordinates": [36.2048, 138.2529], "data": 1700 },
+  { "id": 15, "region": "Germany", "coordinates": [51.1657, 10.4515], "data": 2200 },
+  { "id": 16, "region": "United Kingdom", "coordinates": [55.3781, -3.4360], "data": 1300 },
+  { "id": 17, "region": "South Africa", "coordinates": [-30.5595, 22.9375], "data": 900 },
+  { "id": 18, "region": "Mexico", "coordinates": [23.6345, -102.5528], "data": 1600 },
+  { "id": 19, "region": "Italy", "coordinates": [41.8719, 12.5674], "data": 1400 },
+  { "id": 20, "region": "South Korea", "coordinates": [35.9078, 127.7669], "data": 1800 }
+]

@@ -1,0 +1,156 @@
+.legend {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  width: 100%;
+}
+
+*{
+  font-family: "Montserrat", sans-serif;
+
+}
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+body, html{
+  margin: 0;
+  /* padding: 0; */
+  overflow-x: hidden;
+  padding: 0.5rem;
+}
+
+
+#usageH {
+  flex-shrink: 0;
+  word-break: keep-all;
+}
+
+.labelParent {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.labelRail {
+  display: flex;
+  width: 100%;
+  /* border: 1px solid black; */
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 1rem;
+}
+
+.c {
+  height: 10px;
+  width: 100%;
+  display: flex;
+}
+
+.c1 {
+  background-color: #08519c;
+
+}
+
+.c2 {
+  background-color: #3182bd;
+
+}
+
+.c3 {
+  background-color: #6baed6;
+
+}
+
+.c4 {
+  background-color: #bdd7e7;
+
+}
+
+.l1 {
+  width: 36%;
+
+}
+
+.l2 {
+  width: 24%;
+
+}
+
+.l3 {
+  width: 20%;
+
+}
+
+.l4 {
+  width: 20%;
+
+}
+
+.smbox {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 1rem;
+}
+
+.range {
+  margin-right: 3rem;
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
+  .labSpan{
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+}
+
+@media (width<800px) {
+  .legend {
+flex-direction: column;
+  }
+  .label {
+    gap: 0.4rem;
+  }
+
+  .labelRail {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .label {
+    width: 100%;
+  }
+
+  .w1 {
+    width: 36%;
+  }
+
+  .w2 {
+    width: 24%;
+  }
+
+  .w3 {
+    width: 20%;
+  }
+
+  .w4 {
+    width: 20%;
+  }
+
+ 
+}
